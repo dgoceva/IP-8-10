@@ -9,3 +9,6 @@ print(ll, ll1, ll2)
 del ll
 # print(ll, ll1, ll2)
 print(ll1, ll2)
+del ll1
+# print(ll1, ll2)
+print(ll2)
